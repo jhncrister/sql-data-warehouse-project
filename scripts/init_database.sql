@@ -25,10 +25,10 @@ END;
 GO
 
 -- Create the 'DataWarehouse' database
-CREATE DATABASE DATAWAREHOUSE;
+CREATE DATABASE DataWarehouse;
 GO
 
-USE DATAWAREHOUSE;
+USE DataWarehouse;
 GO
 
 -- Create Schemas
